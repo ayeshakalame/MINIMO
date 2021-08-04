@@ -1,0 +1,213 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    overflow: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+header
+nav{
+    width: 60%;
+    float: right;
+    padding: 30px 0px;
+}
+nav ul{
+    list-style: none;
+    float: right;
+    padding-left: 70px;
+}
+nav ul li{
+    float: left;
+    padding-left: 70px;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #747474;
+}
+.center_image{
+    text-align: center;
+    margin-left:5%;
+    margin-right:5%;
+    float:right;
+    width:90%;
+}
+.center_image img{
+    width:100%;
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+.introduction {
+    float:left;
+    font-size: 95%;
+
+}
+.introduction h2 {
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 10px;
+    color: #cacaca;
+
+    }
+.introduction h1 {
+    color: #555555;
+    width: 70%;
+    margin-left: 15%;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.introduction p {
+    width: 70%;
+    margin-left: 15%;
+    text-align: justify;
+    color: #797979;
+    margin-bottom: 35px;
+}
+
+.introduction h3 {
+    width: 70%;
+    margin-left: 15%;
+    color: #b8b8b6;
+    text-transform: capitalize;
+    margin-bottom: 130px;
+}
+.content_section1{
+    overflow: hidden;
+    margin-bottom: 5%;
+    width: 100%;
+    font-size: 95%;
+}
+.left1{
+    width: 34%;
+    margin-left: 15%;
+    float: left;
+}
+.left1 img{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.left1 h1 {
+    color: #555555;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.left1 h2 {
+    color: #b8b8b6;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.left1 p {
+    color: #7D7D7D;
+    text-align: justify;
+    width: 93%;
+}
+.right1 {
+    width: 34%;
+    float: right;
+    margin-right: 15%;
+}
+.right1 img{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.right1 h1 {
+    color: #555555;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.right1 h2 {
+    color: #b8b8b6;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.right1 p {
+    color: #7D7D7D;
+    text-align: justify;
+    width: 93%;
+}
+.signup {
+    overflow: hidden;
+    width: 100%;
+    background: #F0F0F0;
+    height: 350px;
+    margin: 70px 0px;
+}
+
+.signup h1 {
+    text-align: center;
+    color: #232323;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 5%;
+}
+.input {
+    margin-left: 32%;
+    width: 36%;
+    font-size: 24px;
+    padding-bottom: 10px;
+    border: none;
+    border-bottom: 3px solid #333333;
+    margin-right: 1%;
+}
+.button {
+    text-align: center;
+}
+
+
+
+.button button {
+    font-size: 20px;
+    margin: 102px 0px;
+    padding: 20px 45px;
+    color: #575757;
+}
+
+
+.footer_section {
+    overflow: hidden;
+    background: #F0F0F0;
+}
+
+.total {margin: 80px 0px;}
+
+.total h3 {
+    margin-left: 15%;
+    color: #595959;
+    float: left;
+    margin-right: 20px;
+    font-size: 23px;
+}
+
+.total h2 {
+    font-size: 23px;
+    margin-left: -11px;
+    float: left;
+    width: 593px;
+    color: #595959;
+    padding-left:30px;
+}
+
+.total h4 {
+    color: #595959;
+    float: left;
+    font-size: 23px;
+}
+ul {
+    list-style: none;
+    float: left;
+}
+
+ul li a {color: #595959;padding-left: 20px;}
+
+ul li {
+    float: left;
+}
